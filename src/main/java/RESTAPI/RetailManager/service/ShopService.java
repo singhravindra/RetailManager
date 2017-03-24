@@ -40,7 +40,7 @@ public class ShopService {
 			
 		}
 		
-		
+		// TODO method for Google API
 	// This will return all the Shops between longitude and latitude
 	/*	public List<Shop> getAllShopsLongAndLati(Long longitude,Long lattitude){
 			for(Entry<String, Shop> entry : shopsMap.entrySet() ){
